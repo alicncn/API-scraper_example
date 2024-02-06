@@ -11,7 +11,7 @@ This Python script is designed to scrape Tesla car data from the Autolist API an
      ```
 
 2. **Run the Script:**
-   - Execute the Python script `autolist_scraper.py`.
+   - Execute the Python script `api_scraper.py`.
 
 3. **Output:**
    - The script will fetch Tesla car data from the Autolist API, including model, mileage, year, dealer name, and price.
@@ -38,4 +38,3 @@ This Python script is designed to scrape Tesla car data from the Autolist API an
 - Creating a pandas DataFrame (`tesla_df`) from the extracted data.
 
 - Writing the DataFrame to an Excel file (`tesla.xlsx`).
-
